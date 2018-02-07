@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D752999A-09B3-4783-8B73-77AF4ED731AC}</ProjectGuid>
+    <ProjectGuid>{A6E82C70-45AD-478C-9D15-39F176A0E9E9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Student</RootNamespace>
-    <AssemblyName>Student</AssemblyName>
+    <RootNamespace>Rectangle</RootNamespace>
+    <AssemblyName>Rectangle</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
