@@ -6,6 +6,14 @@ using System.Threading.Tasks;
 
 namespace Complex
 {
+    class Complex
+    {
+        int a;
+        int b;
+
+    }
+
+
     class Program
     {
         static void Main(string[] args)
